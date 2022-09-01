@@ -9,7 +9,7 @@ class DCS extends Component {
         return(
             // style={{ display: "flex", justifyContent: 'flex-center'}} className = "container"
             <div>
-                <a href="https://www.neurocaregroup.com/">
+                <a href="https://ethanrich-tool-dcsviz-app-8h9vkp.streamlitapp.com/">
                 <Button theme="green"> 
                 DCS Mobile 
                 <img src={dcs} className="dcs"/>
