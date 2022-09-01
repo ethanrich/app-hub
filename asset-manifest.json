@@ -1,7 +1,7 @@
 {
-  "main.css": "/app-hub/static/css/main.ab800ca3.chunk.css",
-  "main.js": "/app-hub/static/js/main.94dd23ec.chunk.js",
-  "main.js.map": "/app-hub/static/js/main.94dd23ec.chunk.js.map",
+  "main.css": "/app-hub/static/css/main.2112d10e.chunk.css",
+  "main.js": "/app-hub/static/js/main.0759d244.chunk.js",
+  "main.js.map": "/app-hub/static/js/main.0759d244.chunk.js.map",
   "static/js/1.2d3efeb7.chunk.js": "/app-hub/static/js/1.2d3efeb7.chunk.js",
   "static/js/1.2d3efeb7.chunk.js.map": "/app-hub/static/js/1.2d3efeb7.chunk.js.map",
   "static/css/2.cad998a6.chunk.css": "/app-hub/static/css/2.cad998a6.chunk.css",
@@ -16,9 +16,9 @@
   "static/media/tms.png": "/app-hub/static/media/tms.92fc0797.png",
   "static/media/hand.png": "/app-hub/static/media/hand.1e2e7e07.png",
   "static/media/bg.png": "/app-hub/static/media/bg.6163282a.png",
-  "static/css/main.ab800ca3.chunk.css.map": "/app-hub/static/css/main.ab800ca3.chunk.css.map",
+  "static/css/main.2112d10e.chunk.css.map": "/app-hub/static/css/main.2112d10e.chunk.css.map",
   "static/css/2.cad998a6.chunk.css.map": "/app-hub/static/css/2.cad998a6.chunk.css.map",
   "index.html": "/app-hub/index.html",
-  "precache-manifest.832a2cf71bc83cb3b0309801a6d2da4b.js": "/app-hub/precache-manifest.832a2cf71bc83cb3b0309801a6d2da4b.js",
+  "precache-manifest.3f8702a48ee4ea4b4f1343a224e8132e.js": "/app-hub/precache-manifest.3f8702a48ee4ea4b4f1343a224e8132e.js",
   "service-worker.js": "/app-hub/service-worker.js"
 }
