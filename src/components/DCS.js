@@ -11,7 +11,7 @@ class DCS extends Component {
             <div>
                 <a href="https://ethanrich-tool-dcsviz-app-8h9vkp.streamlitapp.com/">
                 <Button theme="green"> 
-                DCS Mobile 
+                tES
                 <img src={dcs} className="dcs"/>
                 </Button>
                 </a>
